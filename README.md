@@ -17,7 +17,7 @@ To analyze text and rating-based feedback submitted by students after attending 
 
 <h2>DASHBOARD:</h2>
 <img src="data/1.png">
-
+<img src="data/2.png">
 
 <h2>FINDINGS:</h2>
 <br>
