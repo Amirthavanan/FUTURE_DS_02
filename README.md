@@ -3,7 +3,7 @@ Advertisement Analysis - POWER BI
 
 
 <h2>OBJECTIVE:</h2>
-To analyze text and rating-based feedback submitted by students after attending campus events and understand satisfaction levels and identify areas for improvement.
+ to analyze campaign performance metrics and build an interactive dashboard that helps businesses answer questions.
 
 <h2>DATASET:</h2>
 <a href="data/data.csv">Dataset Link</a>
